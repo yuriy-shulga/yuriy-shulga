@@ -20,8 +20,8 @@ I strive to grow as a frontend developer and am always open to new projects and 
 - Telegram: [@yuriyshulga](https://t.me/yuriyshulga)
 - Resume on HH.ru: [My resume](https://nn.hh.ru/resume/32120f35ff0cc53ab60039ed1f386a6f674958)
 
-### Leetcode Status
+### [Leetcode Status](https://leetcode.com/u/yuriy-shulga)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/yuriy-shulga?font=consolas)
 
-### Hexlet Status
+### [Hexlet Status](https://ru.hexlet.io/u/shulga)
 ![Hexlet Stats](https://i.ibb.co/60VGngGs/hexlet.png)
